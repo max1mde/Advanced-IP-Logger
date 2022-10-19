@@ -7,3 +7,5 @@
 
 ## Permissions:
 getdata.cmd
+
+https://www.spigotmc.org/resources/advanced-ip-logger.105841/
