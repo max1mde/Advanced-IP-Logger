@@ -4,9 +4,11 @@
 
 ## Commands:
 /getdata playername
+/getalts playername
 
 ## Permissions:
-getdata.cmd
+advancedlogger.getdata
+advancedlogger.getalts
 
 ## SpigotMC:
 https://www.spigotmc.org/resources/advanced-ip-logger.105841/
