@@ -2,8 +2,8 @@
 
 # Do not use this plugin for malicious purposes!
 
-##Commands:
+## Commands:
 /getdata <playername>
 
-##Permissions:
+## Permissions:
 getdata.cmd
