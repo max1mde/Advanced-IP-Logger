@@ -3,7 +3,7 @@
 # Do not use this plugin for malicious purposes!
 
 ## Commands:
-/getdata <playername>
+/getdata playername
 
 ## Permissions:
 getdata.cmd
