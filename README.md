@@ -4,10 +4,12 @@
 
 ## Commands:
 /getdata playername
+
 /getalts playername
 
 ## Permissions:
 advancedlogger.getdata
+
 advancedlogger.getalts
 
 ## SpigotMC:
