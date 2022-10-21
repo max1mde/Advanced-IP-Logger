@@ -13,12 +13,12 @@ public class DataLogger extends JavaPlugin {
 	public void onEnable() {
 		registerEvents();
 		registerCommands();
-    	getServer().getConsoleSender().sendMessage("งc==>> ง4งkAdvanced IP Loggerงrงc <<==");
-    	getServer().getConsoleSender().sendMessage("งc============================");
-    	getServer().getConsoleSender().sendMessage("งc======Plugin by MaximDe=====");
-    	getServer().getConsoleSender().sendMessage("งbhttps://discord.gg/ahxyCMT8bM");
-    	getServer().getConsoleSender().sendMessage("งbhttps://www.spigotmc.org/members/maximde.1620695/");
-    	getServer().getConsoleSender().sendMessage("งc============================");
+    		getServer().getConsoleSender().sendMessage("ยงc==>> ยง4ยงkAdvanced IP Loggerยงrยงc <<==");
+    		getServer().getConsoleSender().sendMessage("ยงc============================");
+    		getServer().getConsoleSender().sendMessage("ยงc======Plugin by MaximDe=====");
+    		getServer().getConsoleSender().sendMessage("ยงbhttps://discord.gg/ahxyCMT8bM");
+    		getServer().getConsoleSender().sendMessage("ยงbhttps://www.spigotmc.org/members/maximde.1620695/");
+    		getServer().getConsoleSender().sendMessage("ยงc============================");
 	}
 	
 	public void registerEvents() {
