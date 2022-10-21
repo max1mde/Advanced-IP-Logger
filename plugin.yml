@@ -1,9 +1,0 @@
-name: AdvancedIPLogger
-version: 1.1.0
-api-version: 1.16
-main: dev.maximde.datalogger.DataLogger
-author: MaximDe
-
-commands:
-   getdata:
-   getalts:
