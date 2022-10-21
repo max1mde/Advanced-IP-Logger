@@ -1,0 +1,9 @@
+name: AdvancedIPLogger
+version: 1.1.1
+api-version: 1.16
+main: dev.maximde.datalogger.bukkit.DataLogger
+author: MaximDe
+
+commands:
+   getdata:
+   getalts:

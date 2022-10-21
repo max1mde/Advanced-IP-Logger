@@ -1,0 +1,4 @@
+name: AdvancedIPLogger
+main: dev.maximde.datalogger.bungee.DataLogger
+version: 1.1.1
+author: MaximDe
