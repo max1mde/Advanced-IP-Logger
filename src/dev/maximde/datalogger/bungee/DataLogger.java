@@ -11,20 +11,20 @@ import net.md_5.bungee.api.plugin.Plugin;
 
 public class DataLogger extends Plugin {
 
-	  private static CommandSender console;
+ 	private static CommandSender console;
 	
 	public void onEnable() {
 		registerEvents();
 		registerCommands();
-	    this.console = getProxy().getConsole();
-	    this.console.sendMessage("งc==>> ง4งkAdvanced IP Loggerงrงc <<==");
-	    this.console.sendMessage("งc============================");
-	    this.console.sendMessage("งc=========ง3BungeeCordงc=========");
-	    this.console.sendMessage("งc============================");
-	    this.console.sendMessage("งc======Plugin by MaximDe=====");
-	    this.console.sendMessage("งbhttps://discord.gg/ahxyCMT8bM");
-	    this.console.sendMessage("งbhttps://www.spigotmc.org/members/maximde.1620695/");
-	    this.console.sendMessage("งc============================");
+	    	this.console = getProxy().getConsole();
+	    	this.console.sendMessage("ยงc==>> ยง4ยงkAdvanced IP Loggerยงrยงc <<==");
+	    	this.console.sendMessage("ยงc============================");
+	   	 this.console.sendMessage("ยงc=========ยง3BungeeCordยงc=========");
+	   	 this.console.sendMessage("ยงc============================");
+	   	 this.console.sendMessage("ยงc======Plugin by MaximDe=====");
+	   	 this.console.sendMessage("ยงbhttps://discord.gg/ahxyCMT8bM");
+	   	 this.console.sendMessage("ยงbhttps://www.spigotmc.org/members/maximde.1620695/");
+	   	 this.console.sendMessage("ยงc============================");
 	}
 	
 	public void registerEvents() {
